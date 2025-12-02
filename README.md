@@ -2,7 +2,7 @@
 This is my personal copy of the opencloud helm chart repo. The original one from opencloud-eu was archived in November 2025. There will be no support provided for this!
 
 > [!CAUTION]
-> ## This repository has been archived
+> ## This repository has been archived (warning from the forked repo)
 > Due to the high amount of AI generated contributions and poor maintenance, this repository has been archived.
 >  
 > For **production-ready Helm charts** designed for **mission-critical** workloads, please use the enterprise offering, available with a [business subscription](https://opencloud.eu/en/product/service-and-support).  

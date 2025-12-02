@@ -1,3 +1,6 @@
+# WARNING
+This is my personal copy of the opencloud helm chart repo. The original one from opencloud-eu was archived in November 2025. There will be no support provided for this!
+
 > [!CAUTION]
 > ## This repository has been archived
 > Due to the high amount of AI generated contributions and poor maintenance, this repository has been archived.
